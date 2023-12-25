@@ -1,4 +1,4 @@
-module banner
+module github.com/mpetavy/banner
 
 go 1.21
 
